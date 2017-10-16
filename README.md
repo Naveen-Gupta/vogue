@@ -1,5 +1,6 @@
 # vogue
-(WIP)
+(WIP)This is a MERN stack based app.
+
 
 To Start the servers:
 
@@ -11,3 +12,6 @@ npm install
 cd ..
 npm run dev
 </code></pre>
+
+Also in another termianl tab run :
+<code>mongod</code>
