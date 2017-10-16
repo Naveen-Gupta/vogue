@@ -3,8 +3,7 @@
 
 To Start the servers:
 
-<pre>
-<code>
+<pre><code>
 cd vogue
 npm install
 cd client
